@@ -1,3 +1,3 @@
 # HomeBanking
-Contraseña de ingreso: 1234
-(Si no se ingresa contraseña el monto aparecera en cero)
+Codigo de ingreso: 1234
+(Si no se ingresa codigo el monto aparecera en cero)
