@@ -128,7 +128,7 @@ function transferirDinero() {
 }
 
 function iniciarSesion() {
-    var codigo = prompt("Ingrese el codigo de su cuenta:");
+    var codigo = prompt("Ingrese el codigo de su cuenta: 1234");
     if (codigoDeSeguridad === codigo) {
         return alert("Bienvenido/a " + nombreUsuario + " ya puedes comenzar a realizar operaciones.");
         actualizarSaldoEnPantalla();
